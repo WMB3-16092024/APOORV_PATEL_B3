@@ -3,4 +3,6 @@
 
 let name = "apoorv"
 let Lastname = "patel"
-console.log( name + Lastname)
+let age = 25
+console.log(`"My name is ${name} ${Lastname},and I am ${age} years old."`)
+//code will print "My name is apoorv patel,and I am 25 years old."

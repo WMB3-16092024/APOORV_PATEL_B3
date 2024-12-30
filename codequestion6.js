@@ -7,3 +7,4 @@ price ="500"
 let stock;
 stock ="20"
 console.log(`"The book ${title} cost ${price} and has ${stock} copies available"`)
+//code will print "The book the richest man in babylon cost 500 and has 20 copies available"

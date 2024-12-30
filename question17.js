@@ -6,5 +6,6 @@
    console.log(animal);
    ```*/
    let animal = "dog"
-   let animal = "cat"
+   animal = "cat"
    console.log(animal)
+   //code will print cat

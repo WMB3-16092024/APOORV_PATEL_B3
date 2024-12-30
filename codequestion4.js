@@ -3,3 +3,4 @@
 let length = "5"
 let width = "5"
 console.log(`the area of rectangle`,length*width)
+//code will print the area of rectangle 25

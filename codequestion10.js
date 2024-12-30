@@ -4,3 +4,4 @@
  let profession = "student"
  let city = "Bhopal"
  console.log(`"Hi , I am ${name}, a ${profession} from ${city}." `)
+ //code will print "Hi , I am Apoorv, a student from Bhopal." 

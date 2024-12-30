@@ -4,3 +4,4 @@ const user = {
     age : 25
 }
 console.log(user)
+//code will print { name: 'apoorv', age: 25 }

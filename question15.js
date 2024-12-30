@@ -7,3 +7,4 @@
    let profession = "developer";
    let company = "google";
    console.log(`"Im a ${profession} working at ${company}"`)
+   //code will print "Im a developer working at google"

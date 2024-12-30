@@ -3,3 +3,5 @@ let language = "english"
 console.log(language)
 language = "spanish"
 console.log(language)
+//code will print english spanish
+

@@ -9,6 +9,7 @@ let lenght = 5
 let width = 3
 let perimeter = 2*(lenght+width)
 console.log(`the perimeter is  ${perimeter}`)
+//code will print the perimeter is  16
 
 
    

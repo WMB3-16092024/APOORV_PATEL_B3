@@ -5,3 +5,4 @@ favoriteSport = "cricket"
 favoritePlayer = "dhoni"
 favoriteTeam = "india"
 console.log(favoritePlayer , favoriteSport , favoriteTeam)
+//code will print dhoni cricket india
