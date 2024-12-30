@@ -6,5 +6,6 @@
  console.log(Math.ceil(a));
  const c=56.78;
  console.log(Math.floor(a));
+ //code will print 55 , 55 , 54
 
  

@@ -8,3 +8,4 @@
    const floatingNumber =789.123;
    const largeNumber =10_00_00_00_00_000;
    console.log(normalNumber,floatingNumber,largeNumber)
+   //code will print 12345678 789.123 1000000000000

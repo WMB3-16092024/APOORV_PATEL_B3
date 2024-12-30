@@ -8,3 +8,4 @@
    const name = "Yash"
    const location = "Indrpuri, Bhopal"
    console.log(`My name is ${name} and I live in ${location}`)
+   //code will print My name is Yash and I live in Indrpuri, Bhopal
