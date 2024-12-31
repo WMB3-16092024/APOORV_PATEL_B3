@@ -7,3 +7,4 @@ console.log(num);*/
 let num = 10
 num+=5
 console.log(num)
+//code will print 15

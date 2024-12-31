@@ -4,7 +4,7 @@ Write code to:
 - Assign `null` to `emptyValue` and leave `notAssigned` undefined.  
 Print both variables and their types.*/
 let emptyValue = null
-let notAssigned = undefined
+let notAssigned = 
 console.log(emptyValue)
 //code will print null
 console.log(notAssigned)

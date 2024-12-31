@@ -9,3 +9,4 @@ const x = 7
 const y = 2
 const divide = x/y
 console.log(divide)
+//code will print 3.5
